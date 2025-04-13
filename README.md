@@ -1,0 +1,2 @@
+# Short-term-forecasting-of-hierarchical-time-series-in-electricity-consumption
+The article investigates the application of machine learning algorithms, Extreme Gradient Boosting (XGBoost) and Stochastic Gradient Boosting (SGB) for forecasting hierarchical time series data in the South African power generation sector. Additionally, the study explores reconciliation methods to ensure coherence in hierarchical forecasts.
